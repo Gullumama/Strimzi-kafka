@@ -339,8 +339,8 @@
   format: 3.8
   protocol: 3.8
   metadata: 3.8
-  url: https://archive.apache.org/dist/kafka/3.8.0/kafka_2.13-3.8.0.tgz
-  checksum: 0A33B7BE7B6FA53249BA80F9D02CDA71ED81927C160AA6EE9BE1E3D3C1C4B50466FFC905293143FD88CEAC7F5E7D8F5BEC28EF972ADDD3C459CC8B1291E738AA
+  url: file:///home/ubuntu/45-operator/strimzi-kafka-operator/docker-images/artifacts/binaries/kafka/archives/kafka_2.13-3.8.0.tgz
+  checksum: F20C4FC9C0CA4545497C76DA544AA8918B42F2A71DD0FD8CCD96EEE40FA58EBB7D254D73DAB7F07D202162CE06D0C4F0AFBB191E7627839AE129D2136CB5A294
   zookeeper: 3.8.4
   third-party-libs: 3.8.x
   supported: true
@@ -349,8 +349,8 @@
   format: 3.8
   protocol: 3.8
   metadata: 3.8
-  url: https://archive.apache.org/dist/kafka/3.8.1/kafka_2.13-3.8.1.tgz
-  checksum: B43FADA353B7DCA51C0F90ACF594EC1CE06B2344C046D4059D4DEAB0615E0E3E76E92ECCDBDFA1ADAD1FBDE76C5F25E71ACD0DB013FB4B1778827448B5285EDF
+  url: file:///home/ubuntu/45-operator/strimzi-kafka-operator/docker-images/artifacts/binaries/kafka/archives/kafka_2.13-3.8.1.tgz
+  checksum: BAD04BB56C5876D8CF238E0A7D54CFB8FD3B83CE16C5B83BA64E420DA24EBAF38B8C56324FDB28D4E3D6792901FEA0423EA1BE06CAABF3FF0DF99443E69D8FD0
   zookeeper: 3.8.4
   third-party-libs: 3.8.x
   supported: true
@@ -359,8 +359,8 @@
   format: 3.9
   protocol: 3.9
   metadata: 3.9
-  url: https://archive.apache.org/dist/kafka/3.9.0/kafka_2.13-3.9.0.tgz
-  checksum: 5324C1F44D4C84EA469712C2CC3D2D15545C3716EDBB5353722DF9C661FCC78B031FCF07D1C4F0309C5FDB32686665DFB0CFFE55210CD3A1FE2A370538CB4E6D
+  url: file:///home/ubuntu/45-operator/strimzi-kafka-operator/docker-images/artifacts/binaries/kafka/archives/kafka_2.13-3.9.0.tgz
+  checksum: 12A4D00B3FEA5D2CDEA6A556ABE418DCE4971C265076832C7D088ECB85648C3C2CDEE84F9006E12D5E128482C73A424D7B8A9C7175FD70356F382C6D65139AB6
   zookeeper: 3.8.4
   third-party-libs: 3.9.x
   supported: true
@@ -369,8 +369,8 @@
   format: 3.9
   protocol: 3.9
   metadata: 3.9
-  url: https://archive.apache.org/dist/kafka/3.9.1/kafka_2.13-3.9.1.tgz
-  checksum: 1EA204BA73411737A275429CA976D440F007FF0957B90B19BE41DC5A4BAE52617267769BE9F0B5791714D0B3C4C760605BD426FAEA39EDD90763585523FA2CFE
+  url: file:///home/ubuntu/45-operator/strimzi-kafka-operator/docker-images/artifacts/binaries/kafka/archives/kafka_2.13-3.9.1.tgz
+  checksum: F12716F938CDEFDD74868A03E87A88B9DBB20C3A049579E63EF7BB4D176639518BC53E6D7633CFE807378ECFAD11B8B389FBCDDC62348D7A3C8A36BF9F09D888
   zookeeper: 3.8.4
   third-party-libs: 3.9.x
   supported: true
